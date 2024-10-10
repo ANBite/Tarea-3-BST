@@ -1,3 +1,7 @@
+//Allan Francisco Moisés Chaclán Guinea
+//Miguel Alfonzo Macario Velasquez 1597421
+
+
 import { NodeTree } from "./classnode";
 
 class BST {

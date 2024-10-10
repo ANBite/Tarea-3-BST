@@ -1,3 +1,6 @@
+//Allan Francisco Moisés Chaclán Guinea
+//Miguel Alfonzo Macario Velasquez 1597421
+
 export class NodeTree {
     private data: number;
     private leftChild?: NodeTree;
